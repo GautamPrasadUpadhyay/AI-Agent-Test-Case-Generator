@@ -1,0 +1,8 @@
+openai>=1.35.3,<2
+radon>=6,<7
+coverage>=7.6,<8
+pytest>=8.3,<9
+google-generativeai>=0.7,<1
+fastapi>=0.111,<1
+uvicorn>=0.30,<1
+
